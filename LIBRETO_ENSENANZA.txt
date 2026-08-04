@@ -1,0 +1,194 @@
+ACADEMIA DE RIESGOS FINANCIEROS — LIBRETO DE ENSEÑANZA
+
+La intención de este documento es acompañar la explicación del tema de manera natural, ordenada y útil para una sesión real de aprendizaje. No se trata de un texto rígido ni académico en exceso, sino de una guía práctica para transmitir la materia con claridad, profundidad y sentido común.
+
+El propósito es ayudar a que la persona que enseña pueda explicar cada tema con su propia voz, pero con una estructura que mantenga el hilo lógico del contenido. La idea es que el estudiante entienda, primero, en qué consiste el riesgo, segundo, cómo se mide, y tercero, qué decisiones se toman con la información que se obtiene.
+
+1. PROPÓSITO DE LA SESIÓN
+La sesión busca que la audiencia comprenda el papel central del riesgo dentro de una institución financiera. No se trata solo de hablar de pérdidas, sino de mostrar cómo las decisiones de crédito, liquidez, mercado y operación generan exposición y cómo esa exposición puede ser observada, controlada y comunicada.
+
+La enseñanza debe llevar a la persona a entender que una entidad financiera no funciona solo con balances y métricas. También funciona con políticas, decisiones, controles internos, juicio profesional y capacidad de respuesta.
+
+2. OBJETIVO GENERAL
+El objetivo es que quien participa en la sesión logre relacionar los conceptos de riesgo con la realidad del negocio financiero. Eso implica entender qué es lo que se está midiendo, por qué se mide, qué señales son importantes y qué decisiones pueden tomarse a partir de esos resultados.
+
+3. OBJETIVO DE APRENDIZAJE
+Al finalizar la explicación, la persona debería poder reconocer:
+- qué es el riesgo financiero,
+- cuáles son sus principales formas de manifestarse,
+- qué es lo que hace que una cartera o una operación sea más o menos riesgosa,
+- qué indicadores permiten observar ese riesgo,
+- y qué acciones debe tomar una entidad para gobernarlo de manera responsable.
+
+4. PÚBLICO AL QUE VA DIRIGIDO
+Este material sirve para personas que están iniciando en el tema, así como para quienes ya tienen contacto con finanzas y quieren reforzar su comprensión de la gestión de riesgos en una forma más aplicada y didáctica.
+
+La audiencia puede incluir estudiantes, analistas, personal de control interno, áreas de crédito, tesorería, banca, cooperativas, supervisión y personas interesadas en comprender mejor el funcionamiento del sistema financiero.
+
+5. PLANTEAMIENTO PEDAGÓGICO
+La explicación debe ir de lo más sencillo a lo más técnico. Es recomendable empezar por una idea clara del riesgo y luego pasar a los indicadores y a las decisiones que se derivan de ellos.
+
+Una forma útil de enseñar es esta:
+- primero se presenta el concepto,
+- luego se pregunta por la situación real,
+- después se muestra el indicador o la herramienta,
+- y finalmente se interpreta el resultado en términos de negocio.
+
+Eso permite que el aprendizaje no se quede solo en la teoría.
+
+6. CÓMO SE DEBE ENSEÑAR EL TEMA
+La mejor forma de enseñar este tema es hablar de la actividad financiera como algo vivo, dinámico y conectado con la organización. Por eso es útil explicar que nadie mide el riesgo por gusto: se mide porque la entidad necesita saber si su estructura es sólida, si sus clientes tienen capacidad de pago, si su liquidez está protegida y si sus procesos pueden sostener un evento adverso.
+
+La enseñanza debe ser práctica. Si se habla de riesgo de crédito, por ejemplo, se debe mostrar que la probabilidad de incumplimiento no aparece de forma aislada, sino ligada a la calidad del cliente, la estructura del préstamo, la morosidad y la segmentación. Si se habla de liquidez, se debe mostrar que la disponibilidad de efectivo no basta si los vencimientos de pasivos están concentrados en momentos difíciles.
+
+7. INTRODUCCIÓN AL TEMA
+Cuando se habla de riesgo financiero, conviene expresar la idea de manera sencilla: una entidad puede generar ingresos y ofrecer servicios, pero siempre está expuesta a eventos que pueden afectar su capacidad de operar, recuperar su dinero o cumplir sus obligaciones.
+
+Ese riesgo puede originarse por varias razones. Puede estar vinculado con los clientes, con la forma en que se financia la entidad, con el comportamiento del mercado, con los procesos internos o con un hecho externo imprevisto.
+
+Por eso, en la práctica se habla de una gestión de riesgos que combina observación, medición, control y respuesta.
+
+8. LA IDEA CENTRAL DE LA GESTIÓN DE RIESGOS
+La gestión de riesgos no consiste en evitar cualquier tipo de pérdida, porque eso sería imposible en una actividad financiera real. Lo importante es conocer la exposición, entender su nivel de materialidad, definir límites, medir la sensibilidad del negocio y actuar ante cualquier señal que indique deterioro.
+
+Una buena explicación del tema debe hacer entender que el riesgo forma parte de la operación; la diferencia entre una entidad sólida y una débil no está en que una no tenga riesgo, sino en que una lo entiende, lo mide y lo controla mejor.
+
+9. RIESGO DE CRÉDITO
+9.1 Cómo se explica de forma natural
+El riesgo de crédito se presenta cuando una persona, empresa o contraparte no cumple con sus obligaciones de pago. En una entidad financiera, esto puede traducirse en pérdida de principal, pérdida de rentabilidad, necesidad de provisiones o deterioro de la calidad de la cartera.
+
+Se debe explicar que un crédito no es solo una operación de préstamo. Es también la expresión de un perfil de riesgo, una evaluación de capacidad de pago y una decisión de confianza frente a una obligación futura.
+
+9.2 Qué elementos conviene destacar
+Cuando se enseña este tema, conviene llamar la atención sobre varias cosas:
+- el volumen de la obligación,
+- la calidad del cliente,
+- la relación entre deuda e ingreso,
+- los días de mora,
+- la antigüedad del cliente,
+- la clasificación de la cartera,
+- y la forma en que el score permite aproximarse al perfil de riesgo.
+
+Lo importante es distinguir entre “crédito otorgado” y “crédito sano”. No todo crédito con monto elevado es necesariamente más riesgoso; muchas veces lo decisivo es la estructura del cliente, su historial y su capacidad de servicio de deuda.
+
+9.3 Qué mensaje deja el instructor
+El mensaje central es que el riesgo de crédito no se interpreta con una sola cifra. La decisión crediticia se apoya en un conjunto de señales que deben leerse de forma coherente.
+
+10. PÉRDIDA ESPERADA
+10.1 Cómo se presenta este tema
+La pérdida esperada es uno de los conceptos más útiles para enseñar, porque permite conectar la probabilidad de incumplimiento con el impacto económico de ese incumplimiento.
+
+La fórmula clásica es la siguiente:
+
+Pérdida esperada = PD × LGD × EAD
+
+Aquí cada componente responde a una pregunta distinta:
+- PD: ¿cuál es la probabilidad de que el cliente incumpla?
+- LGD: ¿cuánto se pierde si eso ocurre?
+- EAD: ¿cuál es la exposición total al momento del evento?
+
+10.2 Cómo se debe explicar la fórmula
+En la práctica, esto quiere decir que una entidad puede tener dos carteras con comportamiento parecido, pero resultados distintos si una de ellas tiene una exposición mayor o una recuperación peor.
+
+Por eso, una persona que entiende este tema no se centra solo en la probabilidad. También entiende que la severidad del evento y la magnitud de la exposición importan mucho.
+
+10.3 Qué se debe dejar claro
+La pérdida esperada es una herramienta de análisis y de comparación, no una promesa de daño. Lo importante es comprender que el riesgo se cuantifica de manera sistémica y no de forma aislada.
+
+11. RIESGO DE LIQUIDEZ
+11.1 Cómo se explica con palabras simples
+El riesgo de liquidez aparece cuando la entidad no puede convertir sus activos en efectivo a tiempo, o cuando sus obligaciones vencen antes de que los flujos de caja estén disponibles.
+
+Se suele explicar con una frase clara: no es suficiente tener activos o recursos en general; lo importante es tenerlos cuando los necesita la institución.
+
+11.2 Qué elementos conviene visualizar
+En esta sección conviene mostrar que la liquidez depende de:
+- la estructura de vencimientos,
+- la composición de activos y pasivos,
+- la disponibilidad de activos líquidos,
+- la estabilidad de ciertas fuentes de financiamiento,
+- y la velocidad con que una entidad puede responder a una salida significativa de fondos.
+
+11.3 Qué informa el análisis
+Si la brecha es grande en un período corto, la entidad puede enfrentar un problema de solvencia operativa, aun cuando el balance total se vea saludable en conjunto.
+
+12. RIESGO DE MERCADO
+12.1 Cómo se entiende este riesgo
+El riesgo de mercado se relaciona con la posibilidad de que cambios en tasas, precios, volatilidad o condiciones del mercado provoquen pérdidas en el valor de una posición o de un portafolio.
+
+Se puede explicar como el riesgo de que el entorno cambie y, al cambiar, la entidad vea pérdidas por el efecto de esos movimientos sobre la cartera.
+
+12.2 Qué debe destacarse en la explicación
+Es útil enseñar que el riesgo de mercado no se mide solo con una sola cantidad. Hay varias formas de observarlo:
+- la volatilidad histórica,
+- la sensibilidad del valor frente a cambios de tasa,
+- el nivel de confianza del cálculo,
+- y la pérdida estimada para un horizonte determinado.
+
+El Valor en Riesgo, o VaR, se presenta como una herramienta para entender la pérdida potencial esperada en condiciones de mercado, pero no es una garantía de pérdida máxima y debe interpretarse con prudencia.
+
+13. RIESGO OPERATIVO
+13.1 Cómo se explica de forma práctica
+El riesgo operativo surge cuando una entidad sufre pérdidas por fallas internas, errores de proceso, fraude, falta de controles, errores humanos, incidentes tecnológicos o eventos externos.
+
+Es un riesgo que a menudo se subestima porque no siempre aparece como una pérdida visible de inmediato, pero puede afectar la continuidad del negocio, la reputación, la confiabilidad y la capacidad de servicio.
+
+13.2 Qué es importante dejar claro
+Se recomienda mostrar la diferencia entre:
+- riesgo inherente, que es el riesgo antes de los controles,
+- y riesgo residual, que es el riesgo que queda después de aplicarlos.
+
+A partir de ahí se puede hablar de la relevancia de los controles, la separación de funciones, la trazabilidad y la respuesta operativa.
+
+14. PRUEBAS DE ESTRÉS
+14.1 Qué significa enseñar esto en una sesión
+Las pruebas de estrés ayudan a entender qué ocurre cuando la entidad se enfrenta a un escenario adverso que puede afectar de forma simultánea el crédito, la liquidez, la solvencia y la operación.
+
+Es una forma de mirar el negocio bajo condiciones que no son normales, pero que son plausibles y, por ende, útiles para preparar respuestas.
+
+14.2 Qué se debe enfatizar
+La clave de una prueba de estrés no es solo aumentar un parámetro. La clave es entender el canal de transmisión del choque. Es decir, saber cómo un aumento de desempleo, una caída del PIB, una subida de tasas o una salida de depósitos puede impactar la entidad en varios frentes a la vez.
+
+15. LABORATORIO DE DATOS
+15.1 Cómo se presenta
+El laboratorio de datos sirve para mostrar que el análisis no empieza en la fórmula, sino en la calidad de la información. Antes de modelar o comparar, es necesario entender qué hay en la base, qué columnas tienen sentido, cuáles están vacías y cuáles requieren limpieza.
+
+15.2 Qué se enseña allí
+Se enseña una disciplina muy importante: la calidad de los datos es parte del análisis. Si la base tiene errores, el resultado final será débil o interpretado de forma equivocada.
+
+15.3 Qué se debe remarcar
+Esto ayuda a que el estudiante comprenda que no todo lo que “parece razonable” en una visualización es necesariamente correcto. El análisis debe apoyar una decisión informada, no una impresión rápida.
+
+16. MARCO INSTITUCIONAL ECUATORIANO
+16.1 Cómo se conecta con el resto de la sesión
+El marco institucional ayuda a ubicar el análisis dentro de la realidad de la entidad y del país. Esto permite que la persona no vea el riesgo como una actividad mecánica o aislada, sino como una función que debe sostenerse con responsabilidad, governance y cumplimiento.
+
+16.2 Qué debe quedar claro
+La visión institucional implica reconocer que:
+- la técnica sirve para medir,
+- el gobierno define lo que es aceptable,
+- la información debe ser trazable,
+- y la respuesta debe estar alineada con la misión y el modelo de negocio.
+
+17. SECUENCIA RECOMENDADA PARA LA ENSEÑANZA
+Para que el tema se entienda bien, conviene seguir una secuencia clara:
+1. Presentar el concepto con una explicación simple.
+2. Mostrar la variable o indicador más importante.
+3. Relacionarlo con un caso o ejemplo de negocio.
+4. Interpretar los resultados con palabras sencillas.
+5. Concluir con la decisión o la acción que la entidad debería tomar.
+
+18. PREGUNTAS QUE AYUDAN A GUIAR LA EXPLICACIÓN
+Durante la sesión, conviene hacer preguntas sencillas que obliguen a pensar en el negocio, no solo en el cálculo. Algunas de esas preguntas pueden ser:
+- ¿Qué está en riesgo exactamente?
+- ¿Qué indicador refleja esa situación?
+- ¿Qué puede estar pasando en la cartera, en la liquidez o en los procesos?
+- ¿Cuál es el efecto de ese riesgo sobre la entidad?
+- ¿Qué acción se puede tomar frente a esa información?
+
+19. CIERRE DE LA SESIÓN
+La forma más útil de cerrar esta clase es reforzar una idea central: el riesgo financiero no se comprende solo en términos matemáticos. Se comprende cuando se mira la entidad completa: su cartera, su liquidez, su operación, su mercado y su forma de gobernar.
+
+La enseñanza no debe dejar la impresión de que el riesgo es una fórmula aislada. Debe dejar la impresión de que el riesgo es una disciplina de observación, análisis, comunicación y respuesta institucional.
+
+FIN

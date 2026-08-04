@@ -1,0 +1,16 @@
+ACADEMIA DE GESTIÓN DE RIESGOS FINANCIEROS — GUÍA RÁPIDA
+
+1. Descomprima esta carpeta.
+2. Abra Visual Studio Code.
+3. Seleccione Archivo > Abrir carpeta.
+4. Elija Academia_Riesgos_Financieros_Ecuador.
+5. En Windows, haga doble clic en INICIAR_APP.bat.
+
+Alternativa desde la terminal:
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+streamlit run app.py
+
+La aplicación se abrirá normalmente en:
+http://localhost:8501
